@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI(Langchain, Tensorflow), React and TypeScript
 - 🌱 I’m currently learning C++ and Golang
 - 💞️ I’m looking to collaborate on awesome projects
-- 📫 How to reach me david@kayapay.co, dark.butterfly
+- 📫 How to reach me david@kayapay.co, dark.butterfly.dev@gmail.com
 - 😄 Pronouns: deɪvɪd li
 
 <!---
